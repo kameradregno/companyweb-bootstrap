@@ -20,3 +20,22 @@
   }
 
 }
+
+@media screen and (max-width: 768px) {
+  
+  .footericon1 {
+    width: 3rem;
+    height: auto;
+  }
+
+  .footericon2 {
+    width: 3rem;
+    height: auto;
+  }
+
+  .footericon3 {
+    width: 3rem;
+    height: auto;
+  }
+
+}
