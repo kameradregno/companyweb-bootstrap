@@ -1,0 +1,22 @@
+* {
+    scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 425px) {
+  .carousel {
+    display: none;
+  }
+  
+  .footericon1 {
+    display: none;
+  }
+
+  .footericon2 {
+    display: none;
+  }
+
+  .footericon3 {
+    display: none;
+  }
+
+}
